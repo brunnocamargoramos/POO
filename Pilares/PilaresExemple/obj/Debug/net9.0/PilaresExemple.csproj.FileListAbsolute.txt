@@ -1,0 +1,15 @@
+c:\Exato-Testes\estudos\POO\Pilares\PilaresExemple\bin\Debug\net9.0\PilaresExemple.exe
+c:\Exato-Testes\estudos\POO\Pilares\PilaresExemple\bin\Debug\net9.0\PilaresExemple.deps.json
+c:\Exato-Testes\estudos\POO\Pilares\PilaresExemple\bin\Debug\net9.0\PilaresExemple.runtimeconfig.json
+c:\Exato-Testes\estudos\POO\Pilares\PilaresExemple\bin\Debug\net9.0\PilaresExemple.dll
+c:\Exato-Testes\estudos\POO\Pilares\PilaresExemple\bin\Debug\net9.0\PilaresExemple.pdb
+c:\Exato-Testes\estudos\POO\Pilares\PilaresExemple\obj\Debug\net9.0\PilaresExemple.GeneratedMSBuildEditorConfig.editorconfig
+c:\Exato-Testes\estudos\POO\Pilares\PilaresExemple\obj\Debug\net9.0\PilaresExemple.AssemblyInfoInputs.cache
+c:\Exato-Testes\estudos\POO\Pilares\PilaresExemple\obj\Debug\net9.0\PilaresExemple.AssemblyInfo.cs
+c:\Exato-Testes\estudos\POO\Pilares\PilaresExemple\obj\Debug\net9.0\PilaresExemple.csproj.CoreCompileInputs.cache
+c:\Exato-Testes\estudos\POO\Pilares\PilaresExemple\obj\Debug\net9.0\PilaresExemple.sourcelink.json
+c:\Exato-Testes\estudos\POO\Pilares\PilaresExemple\obj\Debug\net9.0\PilaresExemple.dll
+c:\Exato-Testes\estudos\POO\Pilares\PilaresExemple\obj\Debug\net9.0\refint\PilaresExemple.dll
+c:\Exato-Testes\estudos\POO\Pilares\PilaresExemple\obj\Debug\net9.0\PilaresExemple.pdb
+c:\Exato-Testes\estudos\POO\Pilares\PilaresExemple\obj\Debug\net9.0\PilaresExemple.genruntimeconfig.cache
+c:\Exato-Testes\estudos\POO\Pilares\PilaresExemple\obj\Debug\net9.0\ref\PilaresExemple.dll
